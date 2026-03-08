@@ -1,0 +1,14 @@
+body {
+  background-color: yellow;
+  margin-left: auto; 
+  margin-right: auto;
+}
+.Text0 /*este seria los inico del interfaz*/{ 
+  color: green;
+  blackground: #000000;
+}
+
+.Subtitul0 /*este codigo simpre será la bienvenida*/{
+  color: blue;
+  background: #f1f1f1f1;
+}
